@@ -9,7 +9,7 @@ insert into `collaboreat-schema`.`recipe`(`recipeName`, `recipeStory`, `recipeDe
             '', 
             10, 
             '', 
-			'2020-11-25', 4.32, 4, 1, 'https://images.media-allrecipes.com/userphotos/300x300/5079227.jpg'),
+			'2020-10-15', 4.32, 4, 1, 'https://images.media-allrecipes.com/userphotos/300x300/5079227.jpg'),
             
             ('Downeast Maine Pumpkin Bread','The Story', 'The Description', 
             '', 
@@ -85,7 +85,7 @@ insert into `collaboreat-schema`.`recipe`(`recipeName`, `recipeStory`, `recipeDe
             '', 
             10, 
             '', 
-			'2020-12-24', 4.93, 5, 3, 'https://images.media-allrecipes.com/userphotos/300x300/485899.jpg'),
+			'2020-10-24', 4.93, 5, 3, 'https://images.media-allrecipes.com/userphotos/300x300/485899.jpg'),
             
             ('Strawberry Angel Food Dessert','The Story', 'The Description', 
             '', 
@@ -119,79 +119,79 @@ insert into `collaboreat-schema`.`recipe`(`recipeName`, `recipeStory`, `recipeDe
             
             -- 
             
-            ('','The Story', 'The Description', 
+			('Sous Vide New York Strip','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.32, 1, 4, ''),
+			'2020-10-20', 4.75, 2, 4, 'https://sousvideguy.com/wp-content/uploads/2017/03/crowd_cow_steak-1500x850.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Steamed Lobster Tails','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.32, 1, 4, ''),
+			'2020-10-20', 4.50, 3, 4, 'https://i2.wp.com/thesuburbansoapbox.com/wp-content/uploads/2018/12/Baked-Lobster-Tail-4.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Chicken Breasts Stuffed with Crabmeat','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.32, 1, 4, ''),
+			'2020-10-20', 5.0, 1, 4, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F696715.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Garlic Roasted Duck Breast','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.15, 1, 4, ''),
+			'2020-6-20', 3.75, 1, 4, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7930194.jpg&q=85'),
             
-            ('','The Story', 'The Description', 
+            ('Seared Ahi Tuna Steaks','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.32, 1, 4, ''),
+			'2020-10-20', 4.00, 3, 4, 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190226-seared-tuna-435-1552085484.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('French Onion-Breaded Baked Chicken','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.88, 1, 4, ''),
-			
+			'2020-7-20', 4.32, 1, 4, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8125095.jpg&w=1200&h=678&c=sc&poi=face&q=85'),
+            
             --
             
-            ('','The Story', 'The Description', 
+            ('Homestyle Turkey','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.68, 1, 5, ''),
+			'2020-10-20', 2.75, 1, 5, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536913.jpg&q=85'),
             
-            ('','The Story', 'The Description', 
+            ('Blackened Tuna Steaks with Mango Salsa','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.78, 1, 5, ''),
+			'2020-5-20', 4.35, 3, 5, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F572557.jpg&q=85'),
             
-            ('','The Story', 'The Description', 
+            ('Marinated Flank Steak','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 2.46, 1, 5, ''),
+			'2020-10-20', 5.00, 2, 5, 'https://www.simplyrecipes.com/wp-content/uploads/2015/06/grilled-marinated-flank-steak-horiz-a-1200.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Easy Pork Roast','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 2.62, 1, 5, ''),
+			'2020-10-20', 4.37, 1, 5, 'https://healthyrecipesblogs.com/wp-content/uploads/2014/06/pork-roast-1-1.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Sweet Smoked Pork Ribs','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.25, 1, 5, ''),
+			'2020-10-20', 5.0, 1, 5, 'https://jesspryles.com/wp-content/uploads/2016/06/smoked-pork-ribs-99.jpg'),
             
-            ('','The Story', 'The Description', 
+            ('Greek Lemon Chicken and Potato Bake','The Story', 'The Description', 
             '', 
             10, 
             '', 
-			'2020-10-20', 4.14, 1, 5, ''),
+			'2020-10-20', 4.0, 2, 5, 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2390152.jpg&q=85'),
             
             --
             
@@ -217,7 +217,7 @@ insert into `collaboreat-schema`.`recipe`(`recipeName`, `recipeStory`, `recipeDe
             '', 
             10, 
             '', 
-			'2020-11-30', 2.70, 6, 6, 'https://images.media-allrecipes.com/userphotos/300x300/3359485.jpg'),
+			'2020-11-12', 2.70, 6, 6, 'https://images.media-allrecipes.com/userphotos/300x300/3359485.jpg'),
             
             ('Black Bean and Corn Quesadillas','The Story', 'The Description', 
             '', 
